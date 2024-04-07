@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="seccion.css">
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>XV AÑOS</title>
+</head>
+<body>
+  <div id="contenedor">
+    <audio controls src="H.mp3" ></audio>
+    <header>XV AÑOS</header>
+    <p class="descripcion">
+      Plasma tus hermosos recuerdos en una imagen junto a tu mejor sonrisa y vive una vez más ese momento con un vídeo.</p>
+    <section class="general">
+       <section class="uno">
+   <center><img src="xv4.jpg" alt="La imagen está tardando en cargarse"></center>
+        <p class="descripcion2">ACABADOS ORUTRA</p>
+      </section>
+      <section class="dos"
+  <center> <img src="xv2.jpg" alt="La imagen está tardando en cargarse"></center>
+    <p class="descripcion2">CAPTURANDO TUS MEJORES MOMENTOS</p>
+      </section>
+        <section class="tres">
+          <center><img src="xv3.jpg" alt="La imagen está tardando en cargarse"></center>
+          <p class="descripcion2">CREANDO BELLOS RECUERDOS</p>
+        </section>
+      <section class="cuatro">
+   <center><img src="xv1.jpg" alt="La imagen está tardando en cargarse"></center>
+        <p class="descripcion2">DONDE CADA IMAGEN ES AUN MAS ESPECIAL</p>
+      </section>
+    </section>
+  </div>
+</body>
+</html>
